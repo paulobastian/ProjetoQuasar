@@ -1,2 +1,2 @@
 # ProjetoQuasar
-ajustar
+Novo projeto Quasar
