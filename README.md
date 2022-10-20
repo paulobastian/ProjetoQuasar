@@ -1,0 +1,2 @@
+# ProjetoQuasar
+ajustar
